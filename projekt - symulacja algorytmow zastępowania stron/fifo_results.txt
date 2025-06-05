@@ -1,0 +1,16 @@
+
+Liczba stron: 1000, liczba ramek: 1
+Bledy strony: 906
+Procent bledow: 90.60000000000001%
+
+Liczba stron: 1000, liczba ramek: 3
+Bledy strony: 701
+Procent bledow: 70.1%
+
+Liczba stron: 1000, liczba ramek: 5
+Bledy strony: 504
+Procent bledow: 50.4%
+
+Liczba stron: 1000, liczba ramek: 7
+Bledy strony: 280
+Procent bledow: 28.000000000000004%
