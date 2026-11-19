@@ -1,0 +1,10 @@
+average_waiting_time_25: 56.08
+average_turnaround_25: 70.4
+average_waiting_time_100: 261.42
+average_turnaround_100: 275.63
+average_waiting_time_500: 1392.562
+average_turnaround_500: 1407.32
+average_waiting_time_1000: 2846.95
+average_turnaround_1000: 2862.301
+max_waiting_time: 14327
+max_turnaround_time: 14524
